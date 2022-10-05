@@ -4,10 +4,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-xjin0731@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xjin0731@gmail.com)](mailto:xjin0731@gmail.com)
 ---
 
-### Hi there 👋,
-### I'm Xin Jin
-### a second year graduate student studying at Northeastern University Sillicon Valley campus
-### majored in Computer Science.
+# Hi there 👋
+
+- I'm Xin Jin
+- born and raised in China
+- a second year graduate student at Northeastern University Sillicon Valley campus
+- majored in Computer Science.
 
 ---
   
