@@ -6,14 +6,14 @@
 
 ## Hi there 👋,
 
-### I'm Xin Jin, I am a second year graduate student at Northeastern University Sillicon Valley majored in Computer Science.
-### I loves tech and see myself as product enthoziast.
+## I'm Xin Jin
+## I am a second year graduate student studying at Northeastern University Sillicon Valley campus and majored in Computer Science.
+
 -------
   
 ## 🧐 About
 
-- 🏄‍ ENFP who loves being involved in communities
+- 💃 ENFP who loves being involved in communities
 - 💬 Ask me about anything and everything!
 - ⚡ Fun fact: I love meeting new people and eating food!
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
 
