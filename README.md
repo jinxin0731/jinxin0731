@@ -6,7 +6,8 @@
 
 ### Hi there 👋,
 ### I'm Xin Jin
-### a second year graduate student studying at Northeastern University Sillicon Valley campus and majored in Computer Science.
+### a second year graduate student studying at Northeastern University Sillicon Valley campus
+### majored in Computer Science.
 
 -------
   
