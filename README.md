@@ -9,7 +9,7 @@
 - I'm Xin Jin
 - born and raised in China
 - a second year graduate student at Northeastern University Sillicon Valley campus
-- majored in Computer Science.
+- majored in Computer Science
 
 ---
   
