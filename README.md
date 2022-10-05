@@ -9,7 +9,7 @@
 ### a second year graduate student studying at Northeastern University Sillicon Valley campus
 ### majored in Computer Science.
 
--------
+---
   
 # 🧐 About
 
