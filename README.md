@@ -13,7 +13,7 @@
 
 ---
   
-# 🧐 About
+# About 🧐
 
 - 💃 ENFP who loves being involved in communities
 - 💬 Ask me about anything and everything!
